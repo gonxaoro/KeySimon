@@ -1,0 +1,30 @@
+{
+  "name": "keysimon",
+  "version": "1.0.0",
+  "description": "Juego Simon Dice con teclado",
+  "main": "main.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonxaoro/KeySimon.git"
+  },
+  "keywords": [
+    "juego",
+    "simon",
+    "dice",
+    "js",
+    "es6"
+  ],
+  "author": "Gonzalo Moreno <gonzafrontend@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonxaoro/KeySimon/issues"
+  },
+  "homepage": "https://github.com/gonxaoro/KeySimon#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
